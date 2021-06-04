@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mohammed Adnan (@Md-Adnan) a Computer Science graduate student at UT-Arlington, currently looking for full-time job opportunities as a Software/Full-Stack Developer preferably as full stack developer or a UI Engineer.
+- 👀 I’m interested in working on those AI/ML projects which help handicapped beings with their daily activities.
+- 🌱 I’m currently learning different Front end frameworks such as Vue. JS and React.JS and working on getting myself an AWS certified developer Certificate.
+- 💞️ I’m looking to collaborate on different Data Science Projects related to Autonomous Systems and Human Computer Interaction.
+- 📫 How to reach me - Linked In: www.linkedin.com/in/madnan17
+                      - Email : mhd.adnan16@gmail.com                   
